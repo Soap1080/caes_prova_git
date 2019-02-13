@@ -1,2 +1,6 @@
 
+<<<<<<< .merge_file_a16584
 Canvi E1 branca 3
+=======
+canvia E1 branca 4
+>>>>>>> .merge_file_a06368
